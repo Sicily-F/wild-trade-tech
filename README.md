@@ -1,8 +1,8 @@
-# wild-trade-tech
+# Exploring the role of technology in tackling illegal wildlife trade: a use case of mobile AI species identification technology to address the Southeast Asian illegal bird trade​ 
 An open development process of a wildlife marketplace technology
 
 
-The following repository is part of a page ran by [Sicily Fiennes](https://biologicalsciences.leeds.ac.uk/biological-sciences/pgr/1934/sicily-fiennes), a PhD student in the Extinction Studies Doctoral Training Program at the University of Leeds. 
+The following repository is part of a page ran by [Sicily Fiennes](https://biologicalsciences.leeds.ac.uk/biological-sciences/pgr/1934/sicily-fiennes), a PhD student in the [Extinction Studies Doctoral Training Program](https://extinctionstudiesdtp.leeds.ac.uk/) at the University of Leeds. 
 
 My project title is: 'Opportunities for co-design of technology to address the Southeast Asian illegal bird trade'.  
  
